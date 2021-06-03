@@ -4,8 +4,8 @@ by El. Provatos
 During the pandemic a lot of us had to leave spaces like schools, offices, laboratories behind and of course<br> 
 <b>all the nice equipment that is available in those!!!</b> That´s exactly what this projects aim to alleviate!
 
-This is not going to replace your +5k$ Scope or ten times as much Spectrum Analyzer or even your lab power supply!
-But it can enable people who are now only beginning to develop code, learn electronics and / or robotics,
+This is not going to replace your +5k$ Scope or ten times as much Spectrum Analyzer or even your lab power supply! <br>
+But it can enable people who are now only beginning to develop code, learn electronics and / or robotics, <br>
 to have access to a system that can give them:
 
   - An up to 20V I²C programmable power supply.
@@ -22,9 +22,9 @@ to have access to a system that can give them:
   
 And all that is package in a rather long but breadboard friendly PCB ( 600mil wide, as wide as a 40pin DIP! ).
 
-The core of the project is based on an ATmega32U4. Some would say this is perhaps underpowered for such a board,
-others maybe do not mind. The case is that this microcontroller is used in Arduino Nano projects so there is a
+The core of the project is based on an ATmega32U4. Some would say this is perhaps underpowered for such a board, <br>
+others maybe do not mind. The case is that this microcontroller is used in Arduino Nano projects so there is a <br>
 big community which can assist people now beginning with electronics and programming!
   
-This repository will contain, the board schematics on EAGLE Cad, the libraries to use the On-Board ICs and
+This repository will contain, the board schematics on EAGLE Cad, the libraries to use the On-Board ICs and <br>
 probably a couple of examples that might be interesting.
