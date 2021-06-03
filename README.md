@@ -10,7 +10,7 @@ to have access to a system that can give them:
 
   - An up to 20V I²C programmable power supply.
   - 4 High power outputs for controlling any kind of motor or other kind of device
-  - 8 GPIO of the microcontroller directly accessible as well as all the standard.
+  - 8 GPIO of the microcontroller directly accessible as well as all the standard <br>
     communication protocols that come with it ( I²C, USART, SPI ).
   - 16 General Purpose I / O through an I / O expander.
   - On-Board EEPROM, Super-Cap backed RTC, Temperature Sensor.
