@@ -1,7 +1,7 @@
 # OpenLabStick
 by El. Provatos
 
-During the pandemic a lot of us had to leave spaces like schools, offices, laboratories behind and of course 
+During the pandemic a lot of us had to leave spaces like schools, offices, laboratories behind and of course<br> 
 <b>all the nice equipment that is available in those!!!</b> That´s exactly what this projects aim to alleviate!
 
 This is not going to replace your +5k$ Scope or ten times as much Spectrum Analyzer or even your lab power supply!
